@@ -33,6 +33,7 @@ PallyPower-Epoch is a modernized Ace3 rewrite of the classic PallyPower addon—
 
 
   -TODO
+ 
   -Hide references to DKs
   
   -Smooth aura timers (updates in 2 sec intervals at the moment)
