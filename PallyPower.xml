@@ -42,7 +42,7 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
 					  </Anchor>
 				  </Anchors>
 			  </FontString>
-			  <Texture name="$parentClassIcon" file="Interface\AddOns\PallyPower\Icons\Warrior">
+          <Texture name="$parentClassIcon" file="Interface\AddOns\PallyPower-Epoch\Icons\Warrior">
 				  <Size>
 					  <AbsDimension x="26" y="26" /> 
 				  </Size>
@@ -450,8 +450,8 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
 			  <Anchors>
 				  <Anchor point="CENTER" relativeTo="$parent" relativePoint="CENTER"/>
 			  </Anchors>
-			  <NormalTexture file="Interface\AddOns\PallyPower\Icons\draghandle" />
-			  <CheckedTexture file="Interface\AddOns\PallyPower\Icons\draghandle-checked" />
+          <NormalTexture file="Interface\AddOns\PallyPower-Epoch\Icons\draghandle" />
+          <CheckedTexture file="Interface\AddOns\PallyPower-Epoch\Icons\draghandle-checked" />
 		  </CheckButton>
 		  <Frame name="PallyPowerHeader" toplevel="true" movable="true" enableMouse="true" resizable="true" frameStrata="LOW" inherits="SecureHandlerStateTemplate">
 			  <Size x="1" y="1"/>
@@ -468,7 +468,7 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
     </Size>
     <Layers>
       <Layer level="ARTWORK">
-        <Texture name="$parentIcon" file="Interface\AddOns\PallyPower\Icons\Warrior">
+        <Texture name="$parentIcon" file="Interface\AddOns\PallyPower-Epoch\Icons\Warrior">
           <Size>
             <AbsDimension x="32" y="32" />
           </Size>
@@ -704,7 +704,7 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
     </Size>
     <Layers>
       <Layer level="ARTWORK">
-        <Texture name="$parentIcon" file="Interface\AddOns\PallyPower\Icons\AuraMastery">
+        <Texture name="$parentIcon" file="Interface\AddOns\PallyPower-Epoch\Icons\AuraMastery">
           <Size>
             <AbsDimension x="32" y="32" />
           </Size>

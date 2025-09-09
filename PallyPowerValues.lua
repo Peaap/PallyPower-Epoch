@@ -110,17 +110,17 @@ PallyPower.ClassToID = {
 	["PET"]			= 11};	
 
 PallyPower.ClassIcons = {
-	[1] = "Interface\\AddOns\\PallyPower\\Icons\\Warrior",
-	[2] = "Interface\\AddOns\\PallyPower\\Icons\\Rogue",
-	[3] = "Interface\\AddOns\\PallyPower\\Icons\\Priest",
-	[4] = "Interface\\AddOns\\PallyPower\\Icons\\Druid",
-	[5] = "Interface\\AddOns\\PallyPower\\Icons\\Paladin",
-	[6] = "Interface\\AddOns\\PallyPower\\Icons\\Hunter",
-	[7] = "Interface\\AddOns\\PallyPower\\Icons\\Mage",
-	[8] = "Interface\\AddOns\\PallyPower\\Icons\\Warlock",
-	[9] = "Interface\\AddOns\\PallyPower\\Icons\\Shaman",
-	[10] = "Interface\\AddOns\\PallyPower\\Icons\\DeathKnight",
-	[11] = "Interface\\AddOns\\PallyPower\\Icons\\Pet"};
+	[1] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Warrior",
+	[2] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Rogue",
+	[3] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Priest",
+	[4] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Druid",
+	[5] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Paladin",
+	[6] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Hunter",
+	[7] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Mage",
+	[8] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\Warlock",
+	[9] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\shaman",
+	[10] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\DeathKnight",
+	[11] = "Interface\\AddOns\\PallyPower-Epoch\\Icons\\pet"};
 
 PallyPower.BlessingIcons = {
     [-1] = "",
@@ -188,13 +188,13 @@ PallyPower.NumBlessings = 5
 
 PallyPower.Skins = {
     ["None"] = "Interface\\Tooltips\\UI-Tooltip-Background",
-	["Banto"] = "Interface\\AddOns\\PallyPower\\Skins\\Banto",
-	["BantoBarReverse"] = "Interface\\AddOns\\PallyPower\\Skins\\BantoBarReverse",
-	["Glaze"] = "Interface\\AddOns\\PallyPower\\Skins\\Glaze",
-	["Gloss"] = "Interface\\AddOns\\PallyPower\\Skins\\Gloss",
-	["Healbot"] = "Interface\\AddOns\\PallyPower\\Skins\\Healbot",
-	["oCB"] = "Interface\\AddOns\\PallyPower\\Skins\\oCB",
-	["Smooth"] = "Interface\\AddOns\\PallyPower\\Skins\\Smooth",
+	["Banto"] = "Interface\\AddOns\\PallyPower-Epoch\\Skins\\Banto",
+	["BantoBarReverse"] = "Interface\\AddOns\\PallyPower-Epoch\\Skins\\BantoBarReverse",
+	["Glaze"] = "Interface\\AddOns\\PallyPower-Epoch\\Skins\\Glaze",
+	["Gloss"] = "Interface\\AddOns\\PallyPower-Epoch\\Skins\\Gloss",
+	["Healbot"] = "Interface\\AddOns\\PallyPower-Epoch\\Skins\\Healbot",
+	["oCB"] = "Interface\\AddOns\\PallyPower-Epoch\\Skins\\oCB",
+	["Smooth"] = "Interface\\AddOns\\PallyPower-Epoch\\Skins\\Smooth",
 };
 
 PallyPower.Edge = 'Interface\\Tooltips\\UI-Tooltip-Border'
@@ -1033,6 +1033,4 @@ PallyPower.Layouts = {
 		 		au = {x = 1, y = 0},
 	},
  }
-
-
 
