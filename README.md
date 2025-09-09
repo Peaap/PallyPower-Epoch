@@ -31,3 +31,40 @@ PallyPower-Epoch is a modernized Ace3 rewrite of the classic PallyPower addon—
 
   - Based on PallyPower by Aznamir and contributors; modernized and extended for Epoch.
 
+
+  -TODO
+ 
+  -Hide references to DKs
+  
+  -Smooth aura timers (updates in 2 sec intervals at the moment)
+  
+  -general cleanup
+
+
+
+
+  
+<img width="363" height="299" alt="Screenshot 2025-09-09 112457" src="https://github.com/user-attachments/assets/9601f566-179f-442b-a22c-daca39a84a67" />
+
+
+
+
+<img width="1255" height="218" alt="Screenshot 2025-09-09 112515" src="https://github.com/user-attachments/assets/8ce0819a-afb3-4a5f-908c-e2b9d1c3bed0" />
+
+
+
+<img width="448" height="534" alt="Screenshot 2025-09-09 112535" src="https://github.com/user-attachments/assets/0223d222-5ebe-4186-a461-5cb8e63cf723" />
+
+
+<img width="1285" height="770" alt="Screenshot 2025-09-09 112605" src="https://github.com/user-attachments/assets/77ea8918-06fa-4b33-9c65-cf76bcbc58cf" />
+
+
+
+<img width="1279" height="774" alt="Screenshot 2025-09-09 112612" src="https://github.com/user-attachments/assets/64f4a75b-3f90-4f11-980f-b317b0db1c54" />
+
+
+<img width="1265" height="772" alt="Screenshot 2025-09-09 112620" src="https://github.com/user-attachments/assets/dcf1821e-8576-4a6d-8f97-23512048b61d" />
+
+
+
+
